@@ -1,5 +1,6 @@
 # Phonebook
 This is a project assigned in ECS40 - Software Development and Object-Oriented Programming
+I was responsible for writing phonebook.cpp, person.h, and person.cpp
 
 # Input
 The program takes a text input file (list1-8.txt) with people's last name, first name, and phone number, stores as a Person object which is then sorted into the Phonebook alphabetically by last name. 
