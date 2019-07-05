@@ -6,8 +6,11 @@ The program takes a text input file (list1-8.txt) with people's last name, first
 
 # Output
 If the text input file does not follow the correct format, the program will output either:
+
   invalid characters in last name
+  
   invalid characters in first name
+  
   invalid number format
 
 The program outputs the contents of the phonebook (list1-8.out).
