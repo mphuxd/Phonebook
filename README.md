@@ -1,5 +1,6 @@
 # Phonebook
-This is a project assigned in ECS40 - Software Development and Object-Oriented Programming
+This is a project assigned in ECS40 - Software Development and Object-Oriented Programming.
+
 I was responsible for writing phonebook.cpp, person.h, and person.cpp
 
 # Input
