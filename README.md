@@ -13,7 +13,8 @@ If the text input file does not follow the correct format, the program will outp
   
   invalid number format
 
-The program outputs the contents of the phonebook (list1-8.out).
+
+If the input files are formatted correctly, the program outputs the contents of the phonebook in the list1-8.out files.
 
 The test files (t1-8.txt) are compared with the list1-8.out files to ensure the output is correct. 
 
